@@ -50,7 +50,7 @@ public class PatternSyntaxChecker
          }catch(PatternSyntaxException e){
             System.out.println("Invalid");
          }
-         
+         testCases--;
           
       }
    }
